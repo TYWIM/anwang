@@ -176,10 +176,6 @@ npm run build
 - 所有传输都是模拟的，无实际网络通信
 - 请勿用于任何非法用途
 
-## 许可证
-
-本项目采用 MIT 许可证，详见 LICENSE 文件。
-
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request 来改进项目。
